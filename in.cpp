@@ -1,6 +1,6 @@
 int main ( void ) {
     freopen("in.cpp","r",stdin);
-    int a = 1 , d = 2 ;
+    int a = -1 , d = 2 ;
     if (a <= d) {
         c = a ;
         a= d;
@@ -32,4 +32,4 @@ void main4(long    double   ){
     putchar(chr);
     const double asdqwe=.3;
     printf("%s\832º£¸çxs%d","\007",0101b);
-}
+}"  123123123
