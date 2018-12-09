@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\ExpGrammerAnalyserR.cpp">
+    <ClCompile Include="..\Grammer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

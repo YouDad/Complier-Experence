@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\ExpGrammerAnalyserR.cpp" />
+    <ClCompile Include="..\Grammer.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{ED1F108A-642F-468D-8742-66F8740CF404}</ProjectGuid>

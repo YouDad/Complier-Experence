@@ -32,4 +32,4 @@ void main4(long    double   ){
     putchar(chr);
     const double asdqwe=.3;
     printf("%s\832º£¸çxs%d","\007",0101b);
-}"  123123123
+}

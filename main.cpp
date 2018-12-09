@@ -1,9 +1,9 @@
 #include"WordAnalyser.cpp"
 int main(){
 #ifdef LOCAL_DEBUG
-    freopen("../in.cpp","r",stdin);
+    freopen("in.cpp","r",stdin);
 #endif
-    init();
+    getNextChar();init();
     Token get;int cnt[7]={};
     while(ERROR_CODE==0)//no error >0 and no end of file ==-1
         while(Invalid!=(get=next()))
